@@ -20,3 +20,11 @@ Sou apaixonado por tecnologia e desenvolvimento. Atualmente focado em criar proj
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allexct@hotmail.com)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allexct250505&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Allexct250505&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/allexct250505/github-readme-stats#gh-dark-mode-only)
+
+
+
+
+
