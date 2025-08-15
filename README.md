@@ -5,3 +5,5 @@ Eu sou o Alex Clementino Tenório, sou Programador Front End. atualmente estou a
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Allexct250505/seu-repositorio)
+
