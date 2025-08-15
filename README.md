@@ -1,3 +1,4 @@
+![Banner](https://i.imgur.com/zV3yH6q.png)
 
 # 👋 Olá, eu sou Alex Clementino Tenorio  
 
