@@ -13,4 +13,8 @@ Sou apaixonado por tecnologia e desenvolvimento. Atualmente focado em criar proj
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Allexct250505&layout=compact&theme=radical)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)  
+
+
