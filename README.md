@@ -1,9 +1,16 @@
 ## Hi there :pencil:
 
-Eu sou o Alex Clementino Tenório, sou Programador Front End. atualmente estou aprendendo e criando projetos com:
+## 🚀 Sobre mim  
+Sou apaixonado por tecnologia e desenvolvimento. Atualmente focado em criar projetos utilizando **HTML**, **CSS** e **JavaScript**, e sempre explorando novas ferramentas.
 <br>
 <br>
+
+## 🛠 Tecnologias e Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Allexct250505/meu-primeiro-projeto-git)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Allexct250505&layout=compact&theme=radical)
