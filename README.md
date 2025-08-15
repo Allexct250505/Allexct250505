@@ -15,6 +15,6 @@ Sou apaixonado por tecnologia e desenvolvimento. Atualmente focado em criar proj
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexclementinoten%C3%B3rio/)  
 
 
