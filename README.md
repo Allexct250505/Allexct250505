@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/zV3yH6q.png)
-
 # 👋 Olá, eu sou Alex Clementino Tenorio  
 
 ![GitHub followers](https://img.shields.io/github/followers/Allexct250505?style=for-the-badge)
